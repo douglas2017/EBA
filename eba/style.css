@@ -1,0 +1,57 @@
+.a{
+	background:url(imagenes/1.jpg); 
+}
+.b{
+	color: white;
+	font-size: 30px;
+}
+.c{
+	height: 50px;
+	width: 70px;
+}
+.d{
+	font-size: 25px;
+	color: white;
+	background-color: black;
+	height: 50px;
+	width:90px;
+	border-radius: 7px;
+}
+.d:hover{
+	background-color: purple;
+}
+.e{
+	height: 60px;
+	width: 150px;
+}
+.f{
+ background-color: black;
+}
+ .g{
+ 	color: white;
+ 	font-family: arial black;
+ 	font-size: 50px;
+ 	text-align: center;
+
+ }
+
+.i{
+	height: 150px;
+	width: 150px;
+}
+.m{
+	background-color:purple; 
+}
+.o{
+	color: white;
+	font-size: 16px;
+	font-family: arial black;
+	background-color: red;
+	width: 150px;
+	height: 50px;
+}
+.p{
+	color: orange;
+  	font-size: 14px;
+
+}
